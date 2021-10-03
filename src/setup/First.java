@@ -2,6 +2,6 @@ package setup;
 
 public class First {
     public static void main(String[] args) {
-        System.out.println("Well Hello MothaFucka :)");
+        System.out.println("Well Hello MotherFucker :)");
     }
 }
